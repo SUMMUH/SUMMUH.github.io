@@ -1,8 +1,9 @@
-#header {
+.header {
   width: 100%;
   padding: 5px;
   border: 2px solid black;
 }
-#dir1 {
+
+.dir1 {
   width: 50%;
 }
