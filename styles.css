@@ -10,14 +10,13 @@ table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed, 
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
-time, mark, audio, video, dir {
+time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	margin-block-start: 0em;
 }
 
 article, aside, details, figcaption, figure, 
@@ -44,11 +43,12 @@ table {
 }
 
 #header {
-  width: 100%;
-  padding: 5px;
-  border: 2px solid black;
+	width: 100%;
+	padding: 5px;
+	border: 2px solid black;
 }
 
 #dir1 {
-  width: 50%;
+	width: 50%;
+	margin-block-start: 0em;
 }
