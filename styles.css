@@ -20,7 +20,13 @@ body {
 	margin-left: auto;
 	text-align: center;
 	margin-right: auto;
+	margin-bottom: 0.5em;
 	border: 2px solid white;
+}
+
+#headerFlexWrapper > div {
+	width: 6em;
+	border: 1px solid white;
 }
 
 #flexWrapper {
