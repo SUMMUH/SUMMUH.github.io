@@ -9,9 +9,11 @@ body {
 }
 
 #header {
+	width: 100%;
 	padding: 1em;
 	position: fixed;
 	margin-bottom: 1em;
+	background-color: #000000f0;
 	border-bottom: 1px solid white;
 }
 
