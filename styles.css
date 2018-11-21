@@ -36,6 +36,11 @@ body {
 #flexWrapper > div {
 	width: 30em;
 	margin: 0.5em;
-	border: 1em solid white;
+	border: 0.5em solid white;
 	background-color: white;
+}
+
+#headerFlexWrapper {
+	display:flex;
+	justify-content: space-around;
 }
