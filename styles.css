@@ -54,3 +54,7 @@ body {
 	display:flex;
 	justify-content: space-around;
 }
+
+#buffer {
+	height: 100px;
+}
