@@ -25,7 +25,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-	background-image: url(images/brickTextureDark.png);
+	background-image: url("images/brickTextureDark.png");
 }
 ol, ul {
 	list-style: none;
@@ -62,10 +62,10 @@ h1, p, a  {
 	border: 2px solid white;
 }
 
-#profilePicture {
+.squareImageWrap {
 	border: 1em solid white;
 }
 
-.squareImage {
+.squareImage, .squareImageWrap {
 	width: 30em;
 }
