@@ -1,5 +1,6 @@
 h1, p, a  {
 	color: white;
+	font-family: 'Ubuntu Mono', monospace;
 }
 
 body {
