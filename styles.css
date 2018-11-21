@@ -10,6 +10,7 @@ body {
 
 #header {
 	padding: 1em;
+	position: fixed;
 	margin-bottom: 1em;
 	border-bottom: 1px solid white;
 }
