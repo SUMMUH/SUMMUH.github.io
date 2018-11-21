@@ -64,8 +64,9 @@ h1, p, a  {
 
 .squareImageWrap {
 	border: 1em solid white;
+	width: 30em;
 }
 
-.squareImage, .squareImageWrap {
+.squareImage {
 	width: 30em;
 }
