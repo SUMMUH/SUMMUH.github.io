@@ -29,11 +29,11 @@ body {
 	justify-content: center;
 }
 
-#flexWrapper > div > img {
+#flexWrapper div img {
 	width: 30em;
 }
 
-#flexWrapper > div {
+#flexWrapper div {
 	width: 30em;
 	margin: 0.5em;
 	border: 0.5em solid white;
