@@ -1,6 +1,7 @@
 h1, p, a  {
 	color: white;
 	font-family: 'Ubuntu Mono', monospace;
+	text-decoration: none;
 }
 
 body {
@@ -25,6 +26,7 @@ body {
 #flexWrapper {
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: center;
 }
 
 #flexWrapper > div > img {
