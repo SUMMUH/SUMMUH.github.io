@@ -44,7 +44,7 @@ body {
 
 #flexWrapper > div {
 	min-width: 1em;
-	min-height: 1em
+	min-height: 1em;
 	margin: 0.5em;
 	background-color: white;
 	border: 0.5em solid white;
