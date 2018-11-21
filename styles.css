@@ -49,15 +49,17 @@ h1, p, a  {
 
 #header {
 	padding: 1em;
-	border-bottom: 1px solid white;
 	margin-bottom: 1em;
+	border-bottom: 1px solid white;
 }
 
 #title {
+	width: 6em;
 	padding: 5px;
-	border: 2px solid white;
 	margin-left: auto;
+	text-align: center;
 	margin-right: auto;
+	border: 2px solid white;
 }
 
 #profilePicture {
