@@ -58,3 +58,9 @@ body {
 #buffer {
 	height: 6.5em;
 }
+
+#contact {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+}
