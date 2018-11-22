@@ -59,8 +59,9 @@ body {
 	height: 6.5em;
 }
 
-#contactWrapper {
+#contact {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: auto;
+	min-width: 1em;
 }
